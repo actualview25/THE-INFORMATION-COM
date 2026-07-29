@@ -1,0 +1,33 @@
+{
+  "project": {
+    "name": "tour-1785308098864",
+    "date": "2026-07-29",
+    "version": "2.0",
+    "scenesCount": 18
+  },
+  "scenes": [
+    {"id": "scene-0", "index": 0, "name": "مشهد 1", "image": "images/scene-0.jpg", "data": "scenes/scene-0.json"},
+    {"id": "scene-1", "index": 1, "name": "مشهد 2", "image": "images/scene-1.jpg", "data": "scenes/scene-1.json"},
+    {"id": "scene-2", "index": 2, "name": "مشهد 3", "image": "images/scene-2.jpg", "data": "scenes/scene-2.json"},
+    {"id": "scene-3", "index": 3, "name": "مشهد 4", "image": "images/scene-3.jpg", "data": "scenes/scene-3.json"},
+    {"id": "scene-4", "index": 4, "name": "مشهد 5", "image": "images/scene-4.jpg", "data": "scenes/scene-4.json"},
+    {"id": "scene-5", "index": 5, "name": "مشهد 6", "image": "images/scene-5.jpg", "data": "scenes/scene-5.json"},
+    {"id": "scene-6", "index": 6, "name": "مشهد 7", "image": "images/scene-6.jpg", "data": "scenes/scene-6.json"},
+    {"id": "scene-7", "index": 7, "name": "مشهد 8", "image": "images/scene-7.jpg", "data": "scenes/scene-7.json"},
+    {"id": "scene-8", "index": 8, "name": "مشهد 9", "image": "images/scene-8.jpg", "data": "scenes/scene-8.json"},
+    {"id": "scene-9", "index": 9, "name": "مشهد 10", "image": "images/scene-9.jpg", "data": "scenes/scene-9.json"},
+    {"id": "scene-10", "index": 10, "name": "مشهد 11", "image": "images/scene-10.jpg", "data": "scenes/scene-10.json"},
+    {"id": "scene-11", "index": 11, "name": "مشهد 12", "image": "images/scene-11.jpg", "data": "scenes/scene-11.json"},
+    {"id": "scene-12", "index": 12, "name": "مشهد 13", "image": "images/scene-12.jpg", "data": "scenes/scene-12.json"},
+    {"id": "scene-13", "index": 13, "name": "مشهد 14", "image": "images/scene-13.jpg", "data": "scenes/scene-13.json"},
+    {"id": "scene-14", "index": 14, "name": "مشهد 15", "image": "images/scene-14.jpg", "data": "scenes/scene-14.json"},
+    {"id": "scene-15", "index": 15, "name": "مشهد 16", "image": "images/scene-15.jpg", "data": "scenes/scene-15.json"},
+    {"id": "scene-16", "index": 16, "name": "مشهد 17", "image": "images/scene-16.jpg", "data": "scenes/scene-16.json"},
+    {"id": "scene-17", "index": 17, "name": "مشهد 18", "image": "images/scene-17.jpg", "data": "scenes/scene-17.json"}
+  ],
+  "layers": {
+    "paths": ["EL", "AC", "WP", "WA", "GS"],
+    "measurements": ["length", "height"],
+    "hotspots": ["SCENE", "INFO"]
+  }
+}
